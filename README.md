@@ -1,1 +1,1 @@
-# LSTM_RNN
+# Next Word Prediction with LSTM RNN
